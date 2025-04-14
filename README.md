@@ -45,6 +45,7 @@ This research was conducted by a collaborative team as part of an REU program, w
 ## Usage Rights
 
 This project is associated with published academic research. If you wish to use or reference this work, please cite the published paper:
+
 Plain Text
 ```
 [J. Henry et al., "Does Hand Size Matter? The Effect of Avatar Hand Size on Non-verbal Communication in Virtual Reality," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2025.3549894.
