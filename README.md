@@ -45,13 +45,15 @@ This research was conducted by a collaborative team as part of an REU program, w
 ## Usage Rights
 
 This project is associated with published academic research. If you wish to use or reference this work, please cite the published paper:
-
-```
 Plain Text
+```
 [J. Henry et al., "Does Hand Size Matter? The Effect of Avatar Hand Size on Non-verbal Communication in Virtual Reality," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2025.3549894.
 keywords: {Avatars;Hands;Collaboration;Particle measurements;Atmospheric measurements;Visualization;User experience;Animation;Video conferencing;Tracking;Virtual environments;communication;avatars;virtual reality;body proportions;embodiment},
 ]
+```
+
 BibTex
+```
 [@ARTICLE{10919212,
   author={Henry, Jackson and Canales, Ryan and Stolarski, Catherine and Adkins, Alex and Venkatakrishnan, Rohith and Venkatakrishnan, Roshan and Jörg, Sophie},
   journal={IEEE Transactions on Visualization and Computer Graphics}, 
