@@ -73,3 +73,9 @@ For questions about this research or requests for additional information, please
 ---
 
 *This project was supported by the National Science Foundation through the Research Experiences for Undergraduates (REU) program.*
+
+## Contact
+
+For inquiries about this project or employment opportunities, please contact:
+
+[Jackson Henry](mailto:jacksonshenry.cs@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jackson-henry-603b96251/) | [Portfolio](https://jhenry77.github.io/)
